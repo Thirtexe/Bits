@@ -1,6 +1,6 @@
 # BITS
 
-# english Description:
+# English Description:
 
 This product was created and is made available to you with the aim of providing a simulated environment for working with logic gates.
 
@@ -158,6 +158,4 @@ AND(AND(1,1), 0)
 
 ## CONTACT US
 
-GITHUB: @Thirtexe
-TELEGRAM: @Thirtexe
-Email: Thirtexe@gmail.com
+Github: @Thirtexe | Telegram: @Thirtexe | Email: Thirtexe@gmail.com
