@@ -1,6 +1,6 @@
 <div align="center">
   
-# ⚡ BITS 
+#  BITS 
 **A Simulated Environment for Logic Gates / یک محیط شبیه‌سازی شده برای گیت‌های منطقی**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue.svg)]()
@@ -23,13 +23,13 @@ Until today, no one had created a product for a normal user to interact with gat
 This product works with a terminal environment and is similar to a programming language.
 
 > **Why the number 3 in our logo?** 
-> The "3" represents the three fundamental terminals of a transistor (Base, Collector, Emitter) which are the building blocks of all logic gates. It also proudly nods to the creator, **Thirtexe** (derived from "Thirteen").
+> The "3" represents the three fundamental terminals of a transistor (Base, Collector, Emitter) which are the building blocks of all logic gates. It also nods to the creator, **Thirtexe** (derived from "Thirteen").
 
 ### ⚙️ Installation
 
 First, download the file suitable for your operating system:
-*   **Windows (64-bit):** `Bits.exe`
-*   **Linux (64-bit):** `Bits.AppImage`
+*   **Windows (64-bit):** `Bits-(version).exe`
+*   **Linux (64-bit):** `Bits-(version).AppImage`
 
 **Windows:**
 After downloading, right-click on the downloaded file and run it. You will enter the Windows terminal. The program opens a terminal for you to execute your commands in it.
@@ -37,11 +37,11 @@ After downloading, right-click on the downloaded file and run it. You will enter
 **Linux:**
 After downloading, grant execute permission to the file:
 ```bash
-chmod +x Bits.AppImage
+chmod +x Bits-(version).AppImage
 ```
 Then, open the terminal in the file's path and execute it:
 ```bash
-./Bits.AppImage
+./Bits-(version).AppImage
 ```
 
 ### 📖 Tutorial
@@ -99,13 +99,13 @@ This command is new and does not exist in reality. This gate takes one input and
 این محصول با محیط ترمینالی کار می‌کند و شبیه یک زبان برنامه‌نویسی است.
 
 > **چرا عدد ۳ در لوگوی ما؟**
-> عدد "۳" نماد سه پایه اساسی یک ترانزیستور (Base, Collector, Emitter) است که پایه‌ی سازنده‌ی تمام گیت‌های منطقی هستند. این عدد همچنین اشاره‌ای افتخارآمیز به سازنده، یعنی **Thirtexe** (برگرفته از Thirteen) دارد.
+> عدد "۳" نماد سه پایه اساسی یک ترانزیستور (Base, Collector, Emitter) است که پایه‌ی سازنده‌ی تمام گیت‌های منطقی هستند. این عدد همچنین اشاره‌ای به سازنده، یعنی **Thirtexe** (برگرفته از Thirteen) دارد.
 
 ### ⚙️ نصب
 
 در مرحله اول فایل مناسب سیستم‌عامل خود را دانلود کنید:
-*   **ویندوز (۶۴بیتی):** `Bits.exe`
-*   **لینوکس (۶۴بیتی):** `Bits.AppImage`
+*   **ویندوز (۶۴بیتی):** `Bits-(version).exe`
+*   **لینوکس (۶۴بیتی):** `Bits-(version).AppImage`
 
 **ویندوز:**
 بعد از دانلود روی فایل دانلود شده کلیک‌راست کنید و فایل را اجرا کنید. بعد از این شما وارد ترمینال ویندوز می‌شوید. برنامه برای شما یک ترمینال باز می‌کند تا در آن دستورات خود را اجرا کنید.
@@ -113,11 +113,11 @@ This command is new and does not exist in reality. This gate takes one input and
 **لینوکس:**
 بعد از دانلود به فایل اجازه اجرا را بدهید:
 ```bash
-chmod +x Bits.AppImage
+chmod +x Bits-(version).AppImage
 ```
 بعد از اجازه اجرا، در مسیر فایل ترمینال را باز کنید و با دستور زیر فایل را اجرا کنید:
 ```bash
-./Bits.AppImage
+./Bits-(version).AppImage
 ```
 
 ### 📖 آموزش
